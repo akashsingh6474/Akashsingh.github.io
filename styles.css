@@ -372,8 +372,8 @@ profile-photo .img{
   margin: 20px 0;
 }
 .project p{
-/*   text-align: justify; */
-  text-align: left;
+      text-align: justify; 
+  
 } 
 .project:hover{
   border-color: #fed700;
